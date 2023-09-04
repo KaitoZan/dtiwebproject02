@@ -1,0 +1,9 @@
+a{
+    font-size: 100px;
+}
+a:hover{
+    background-color: coral;
+}
+input:focus{
+    background-color: darkgoldenrod;
+}
